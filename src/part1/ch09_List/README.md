@@ -58,3 +58,7 @@
 - 중간 원소 삽입/제거 연산은 해당 Node와 연결된 참조값만을 갱신하여 다른 Node에 영향을 미치지 않는다.
 
 
+![LinkedList](./img/img3.jpeg)
+![LinkedList](./img/img4.jpeg)
+![LinkedList](./img/img5.jpeg)
+![LinkedList](./img/img6.jpeg)
